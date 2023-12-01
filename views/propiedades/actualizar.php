@@ -1,5 +1,5 @@
 <main class="contenedor seccion">
-        <h1>Actualzar</h1>
+        <h1>Actualzar Propiedad</h1>
 
         <a href="/admin/" class="boton boton-verde">Volver</a>
 
